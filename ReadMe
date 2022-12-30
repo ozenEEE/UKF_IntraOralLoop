@@ -1,2 +1,3 @@
-An upgraded intraoral transverse loop coil design for dental MRI. In this repository you can find the source files for production of the interface circuits,
+An upgraded intraoral transverse loop coil design for dental MRI to be published in XXX as an open source paper. In this repository you can find the source files for production of the interface circuits,
 coils, electromagnetic simulation settings and 3D models used in the simulations, as well as scripts used in the data analysis.
+These files will be made available after the related manuscript is accepted for publication.

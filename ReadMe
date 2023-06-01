@@ -1,4 +1,4 @@
 An upgraded intraoral transverse loop coil design for dental MRI to be published in MRM as an open source paper. In this repository you can find the source files for production of the interface circuits,
 coils, electromagnetic simulation settings and 3D models used in the simulations, and CAD models of phantom and coil holder.
 If these source files help or inspire you in your research and development tasks, please cite: 
-[1] Özen AC, et al. An Improved Intraoral Transverse Loop Coil Design for High Resolution Dental MRI. Mag. Reson. Med. 2023.
+[1] 1. Özen AC, Ilbey S, Jia F, et al. An Improved Intraoral Transverse Loop Coil Design for High Resolution Dental MRI. Magn. Reson. Med. 2023;0:1–8 doi: 10.1002/mrm.29744.
